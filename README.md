@@ -2,6 +2,9 @@
 #Repozytorium testowe
 #To jest test pierwszego commita
 
-# To repozytorium jest wykorzystywane podczas zajęc 22.11.2026 r.
+# To repozytorium jest wykorzystywane podczas zajęc 22.11.2026 r. 
+
 
 # Cześć, lubię Cię, a Ty mnie?
+# Lubie placki
+#11
