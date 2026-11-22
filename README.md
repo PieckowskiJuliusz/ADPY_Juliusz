@@ -1,3 +1,5 @@
 # ADPY_Juliusz
-Repozytorium testowe
-To jest test pierwszego commita
+#Repozytorium testowe
+#To jest test pierwszego commita
+
+# To repozytorium jest wykorzystywane podczas zajęc 22.11.2026 r.
